@@ -1,0 +1,1 @@
+{"name":"apex-kart","version":"1.0.0","type":"module","private":true,"scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","check":"node --check src/main.js && node --check src/game.js && node --check src/world.js && node --check src/network.js"},"dependencies":{"three":"^0.170.0","peerjs":"^1.5.5"},"devDependencies":{"vite":"^6.1.0"}}
